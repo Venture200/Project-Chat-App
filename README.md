@@ -10,7 +10,7 @@ Flash Chat App for iOS is a real time chat app written in Swift 5 using Firebase
 
 Flash Chat App allows to send and receieve text messages instantly between two users. The project inteded to cover one of the most fundamental component of modern iOS Applications which is Table View. Table views are widely used in applications and they are bread and butter for every iOS Developers. Apart from that, creating custom cells, and making our own cloud-based backed database on Firebase Cloud Firestore make application user friendly and store necessary information securely on cloud. The App has been made based on Angela Yu's "iOS & Swift - The Complete iOS App Development Bootcamp" Udemy course. Extra optimizations and custom functionalities have been implemented by me.
 
-<img src="register.gif" alt="Screenshot of Flash Chat for iOS" width="200" /> <img src="login.gif" alt="Screenshot of Flash Chat for iOS" width="200" /> <img src="chat.gif" alt="Screenshot of Flash Chat for iOS" width="425" /> 
+<img src="GIFs/register.gif" alt="Screenshot of Flash Chat for iOS" width="200" /> <img src="GIFs/login.gif" alt="Screenshot of Flash Chat for iOS" width="200" /> <img src="GIFs/chat.gif" alt="Screenshot of Flash Chat for iOS" width="425" /> 
 
 ## Prerequisites
 
